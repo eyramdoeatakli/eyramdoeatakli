@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @eyramdoeatakli and I am passionate about learning from the best and making an impact
+- 👋 Hi, I’m @eyramdoeatakli and I am passionate about tech and making an impact
 - 👀 I love writing,programming and all things tech
 - 🌱 I’m currently solving logic puzzles to sharpen my problem solving skills
 - 📫 How to reach me eyramdoeatakli@gmail.com
